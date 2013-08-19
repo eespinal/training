@@ -1,0 +1,5 @@
+syntax: global
+
+.vagrant
+*~
+*.swp
